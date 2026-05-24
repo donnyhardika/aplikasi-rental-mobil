@@ -1,4 +1,4 @@
-# PROGRAM CRUD APLIKASI RENTAL MOBIL
+# PROGRAM CRUD RENT CAR APPLICATION
 Python CRUD Application for Rental Mobil
 A comprehensive Python application for managing Rental Mobil data with Create, Read, Update, and Delete (CRUD) operations.
 
